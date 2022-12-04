@@ -1,0 +1,10 @@
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\bin\Debug\netcoreapp3.1\Libraries.DBClient.deps.json
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\bin\Debug\netcoreapp3.1\Libraries.DBClient.dll
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\bin\Debug\netcoreapp3.1\Libraries.DBClient.pdb
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.csproj.AssemblyReference.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.AssemblyInfoInputs.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.AssemblyInfo.cs
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.csproj.CoreCompileInputs.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.dll
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\Libraries.DBClient\obj\Debug\netcoreapp3.1\Libraries.DBClient.pdb

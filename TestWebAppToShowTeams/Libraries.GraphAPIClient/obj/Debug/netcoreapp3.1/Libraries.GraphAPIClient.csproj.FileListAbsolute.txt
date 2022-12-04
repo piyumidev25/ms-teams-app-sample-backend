@@ -1,0 +1,10 @@
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\bin\Debug\netcoreapp3.1\Libraries.GraphAPIClient.deps.json
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\bin\Debug\netcoreapp3.1\Libraries.GraphAPIClient.dll
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\bin\Debug\netcoreapp3.1\Libraries.GraphAPIClient.pdb
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.csproj.AssemblyReference.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.AssemblyInfoInputs.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.AssemblyInfo.cs
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.dll
+C:\Users\Piyumi\Documents\TestWebAppToShowTeams\GraphAPIClient\obj\Debug\netcoreapp3.1\Libraries.GraphAPIClient.pdb

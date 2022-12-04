@@ -1,0 +1,65 @@
+﻿@model TestWebAppToShowTeams.Models.LoggedUserTeamsViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+    </div>
+@if (Model.UserInfo != null)
+{
+    <div class="form-group">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                <h2 class="control-label" style="font-weight:bold">User Info</h2>
+                <hr>
+                <dl>
+                    <dt>Display Name</dt>
+                    <dd>- @Model.UserInfo.DisplayName</dd>
+                    <dt>Email</dt>
+                    <dd>- @Model.UserInfo.Email</dd>
+                    <dt>Company Name</dt>
+                    @if (string.IsNullOrEmpty(@Model.UserInfo.Company))
+                    {
+                        <dd>- Not Available</dd>
+                    }
+                    else
+                    {
+                        <dd>- @Model.UserInfo.Company</dd>
+                    }
+                    <dt>Department</dt>
+                    @if (string.IsNullOrEmpty(@Model.UserInfo.Department)){
+                        <dd>- Not Available</dd>
+                    }
+                    else{
+                        <dd>- @Model.UserInfo.Department</dd>
+                    }
+                    
+                </dl>
+            </div>
+        </div>
+    </div>
+}
+@if(Model.JoinedTeamsInfo != null && Model.JoinedTeamsInfo.Count>0){
+    <hr />
+    <table>
+        <tr>
+            <th>Display Name</th>
+            <th>Owners</th>
+            <th>Members</th>
+        </tr>
+        @foreach (var item in Model.JoinedTeamsInfo)
+        {
+           <tr>
+               <td>@item.DisplayName</td>
+                <td>
+                    @item.Owners
+                </td>
+                <td>
+                    @item.Members
+                </td>
+           </tr>
+       }
+    </table>
+}
